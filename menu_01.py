@@ -1,6 +1,12 @@
 """
 Menú principal
 """
+##  Generaciónd de un diccionario para el Administrador ##
+
+
+
+
+##  PROGRAMA PRINCIPAL  ##
 while True:
     print("-----SISTEMA DE VENTAS-----")
     print("\t 1) Administrador")
